@@ -14,8 +14,7 @@ with open(".env") as env:
 
 client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
 
-
-app = Flask(__name__, static_url_path='/static')
+app = Flask(__name__)
 
 # Define your delimiter
 delimiter = "####"
