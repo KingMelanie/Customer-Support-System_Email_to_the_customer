@@ -111,5 +111,5 @@ The application will display the generated email response based on the selected 
 <b>English Email generated from English Comment:</b>
 <img src="img/eng to eng.png">
 
-<b> Portugese Email generated from English Comment: </b>
-<img src="img/eng to port.png">
+<b> French Email generated from English Comment: </b>
+<img src="img/eng to french.png">
